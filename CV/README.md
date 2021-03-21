@@ -51,3 +51,10 @@
 
 ## Reconocimientos ##
 **Tercer lugar Hackathon estatal Hidalgo Lab 2019: Smart Cities**
+
+## Contacto ##
+**Dirección:** Av. Juárez S/N, col. Centro, Tolcayuca, Hgo. C.P.43860
+
+**Teléfono:** (771) 219-0738
+
+**Email:** A01274144@itesm.mx
