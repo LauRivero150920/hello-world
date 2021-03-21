@@ -17,3 +17,37 @@
 * Taller Primeros Pasos en la Web
 * Taller Herramientas de Diseño
 * Hackathon estatal Hidalgo Lab 2019: Smart Cities
+
+## Habilidades ##
+**Lenguajes de Programación**
+* C++
+* C#
+* JavaScript
+
+**Desarrollo Web**
+* HTML
+* CSS
+* JQuery
+* AJAX
+
+**Manejo de Software**
+* Word
+* Excel
+* PowerPoint
+* Visual Studio/Visual Studio
+* Code
+* GitHub
+* Sublimetext
+* LaTeX
+
+## Competencias ##
+* Trabajo en Equipo
+* Resiliencia
+* Creatividad
+* Crecimiento
+* Liderazgo
+* Trabajo Bajo Presión
+* Administración Óptima del Tiempo
+
+## Reconocimientos ##
+**Tercer lugar Hackathon estatal Hidalgo Lab 2019: Smart Cities**
